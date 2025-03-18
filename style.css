@@ -1,0 +1,108 @@
+.torna-su  {
+    background-color: #222F3E;
+    margin: 0px;
+}
+
+#logo-header {
+    width: 100px;
+}
+
+.menu-box {
+    background-color: #354657;
+    display: flex;
+}
+
+.menu-box .menu {
+    color: white;
+}
+
+body{
+    margin: 0;
+}
+.menu {
+    margin: 10px;
+}
+
+p {
+    margin: 0px;
+}
+
+#top-bar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 6px;
+    background-color: #F56600;
+    color: white;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+
+h1 {
+    margin-bottom:2px;
+    
+}
+
+
+h2 {
+    margin-top:2px;
+    
+}
+
+.title {
+    background-image:url(ASSETS/bg-image.png);
+    padding: 50px;
+}
+
+.banner img {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#logo-footer {
+    background-color: #222F3E;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 10px;
+}
+    
+.footer{
+    
+    background-color: #222F3E;
+}
+
+.footeer img {
+    width: 10px;
+    padding: 15px;
+
+}
+.link {
+    background-color: #354657;
+    padding: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#link-footer {
+    color: white;
+    align-items: center;
+}
+
+.img-footer {
+    width: 150px;
+}
+
+.banner {
+    
+    justify-content: center;
+    align-content: center;
+}
